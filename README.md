@@ -1,7 +1,7 @@
 # Flutter Auth Clean BLoC
 
-Flutter Auth Clean BLoC es una aplicación de autenticación desarrollada en Flutter, construida con Arquitectura Limpia (Clean Architecture) y el patrón BLoC como gestor de estado.  
-El objetivo principal de este proyecto fue migrar una aplicación previamente basada en Streams a una arquitectura completamente con BLoC, aplicando buenas prácticas de escalabilidad, persistencia y diseño consistente.
+Flutter Auth Clean BLoC es una aplicación de autenticación desarrollada en Flutter, construida desde el inicio utilizando Arquitectura Limpia (Clean Architecture) y el patrón BLoC como gestor de estado.  
+El proyecto está enfocado en buenas prácticas de arquitectura, manejo de estado y diseño consistente orientado a producción.
 
 ---
 
