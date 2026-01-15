@@ -9,9 +9,9 @@ class LoginUseCase {
     : repository = repository ?? AuthRepositoryImpl();
 
   Future<UserEntity> call({
-    required String email,
+    required String username,
     required String password,
   }) async {
-    return await repository.login(email: email, password: password);
+    return await repository.login(username: username, password: password);
   }
 }
