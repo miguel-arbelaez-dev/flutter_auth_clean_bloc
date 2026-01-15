@@ -34,7 +34,7 @@ El objetivo principal de este proyecto fue migrar una aplicación previamente ba
 - Gestión de estado: flutter_bloc  
 - Persistencia local: Shared Preferences  
 - Diseño: Theme global para una interfaz consistente  
-- Versión de Flutter: 3.8.6  
+- Versión de Flutter: 3.86.6  
 
 ---
 
